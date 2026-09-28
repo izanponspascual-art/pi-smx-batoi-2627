@@ -1,2 +1,2 @@
-# pi-smx-batoi-2627
+# pi-smx-batoi-26-27
 Repositorio de ejemplo
