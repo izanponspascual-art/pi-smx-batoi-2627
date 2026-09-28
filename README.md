@@ -14,7 +14,7 @@ Para programar con Phyton debes de cumplir los siguientes requisitos
 
 ## Imagen del proyecto
 
-![Proyecto Phyton](~/2ºSMX/Programación/Proyecto/SA1/Ficha del personaje.py)
+<img width="785" height="665" alt="image" src="https://github.com/user-attachments/assets/cdfec854-602d-43f4-a04a-05ccd91addd1" />
 
 ## Comando de ejemplo
 
